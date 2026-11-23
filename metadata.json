@@ -1,0 +1,6 @@
+{
+  "name": "SubJogger",
+  "description": "Zero-cloud, offline-first subscription memory jogger with on-device privacy scrubbing, ML Kit screenshot OCR, local renewal notifications, and .ics calendar export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SubJogger</string>
+    <string name="privacy_subtitle">Private &amp; Local Storage</string>
+    <string name="nav_my_list">My list</string>
+    <string name="nav_jogger">Jogger</string>
+    <string name="nav_totals">Totals</string>
+    <string name="nav_settings">Settings</string>
+    <string name="fab_add_subscription">Add subscription</string>
+    <string name="hero_label_run_rate">ACTIVE MONTHLY RUN-RATE</string>
+    <string name="hero_on_budget">On budget</string>
+    <string name="hero_yearly_equivalent">Yearly Equivalent</string>
+    <string name="hero_next_30_days">Next 30 Days</string>
+    <string name="banner_offline_title">Offline &amp; Reminders Ready</string>
+    <string name="banner_offline_badge">Zero Cloud</string>
+    <string name="banner_offline_subline">100% on-device ledger • Local alerts &amp; .ics calendar sync</string>
+    <string name="banner_offline_cta">Reminders</string>
+    <string name="review_banner_cta">Review</string>
+    <string name="upcoming_schedule_header">UPCOMING BILLING SCHEDULE</string>
+    <string name="upcoming_chronological">Chronological</string>
+    <string name="jog_memory_title">Did you forget annual renewals?</string>
+    <string name="jog_memory_body">Check domain registrars, cloud storage, Amazon Prime, or password managers.</string>
+    <string name="jog_memory_cta">Browse common picks</string>
+    <string name="notification_channel_name">Renewal Reminders</string>
+    <string name="notification_channel_desc">Local on-device reminders before recurring subscription charges.</string>
+</resources>
